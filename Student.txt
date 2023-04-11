@@ -1,0 +1,9 @@
+Name: Syng Kong Kwang
+Program: BS Astronaut Subject
+Course: IT101-2
+First Grade: 89.78
+Second Grade: 87.34
+Third Grade: 90.32
+Forth Grade: 85.45
+Average: 88.2225
+Remarks: Passed
