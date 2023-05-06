@@ -1,0 +1,4 @@
+100#Sparky#Male#Dog#Siberian#Black#200#MARCH#8#1987#36#
+101#Talon#Female#Bird#Persian#Blue#299#SEPTEMBER#14#2001#22#
+102#Loki#Male#Crocodile#Black Mole##45626#JANUARY#1#1974#49#
+103#Peter#Male#Dog#Askal##1546#JUNE#1#1978#45#
